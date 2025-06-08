@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+motor
+pymongo
+celery[redis]
+redis
+python-dotenv
+httpx
+beautifulsoup4 
+newspaper3k 
+openai
